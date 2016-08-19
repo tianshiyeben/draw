@@ -5,6 +5,6 @@
 
 下载后，运行TikaUtils.java里的main方法就可以了
 
-联系：tianshiyeben@qq.com
+联系：tianshiyeben@qq.com，不要忘了点star哦
 
 
