@@ -307,21 +307,9 @@ public class TikaUtils {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		pickHtml("http://www.shdrc.gov.cn/fzgggz/jggl/jgjgdt/23663.htm");
+		pickHtml("http://www.gov.cn/guowuyuan/2016-08/19/content_5100561.htm");
 		
-		/*HtmlParser htmlparser = new HtmlParser();
-		Tika tika = new Tika();  
 		
-	    // Parse all given files and print out the extracted text content
-		URL url;
-		try {
-			url = new URL("http://www.sdpc.gov.cn/gzdt/201605/t20160531_806176.html");
-			String s = tika.parseToString(url);
-			System.out.print(s);  
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} */
 
 	}
 
